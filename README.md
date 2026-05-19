@@ -1,4 +1,4 @@
-# RAG-Project
+# Shildcare-Insurance-Assistant-RAG
 
 ShieldCare Insurance Assistant is a Retrieval-Augmented Generation (RAG) application that answers health insurance policy questions from a PDF document.
 
