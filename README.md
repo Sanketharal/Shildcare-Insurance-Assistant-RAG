@@ -2,7 +2,12 @@
 
 ShieldCare Insurance Assistant is a Retrieval-Augmented Generation (RAG) application that answers health insurance policy questions from a PDF document.
 
+
 ## Project Overview
+
+ShieldCare Insurance Assistant is an AI-powered Retrieval-Augmented Generation (RAG) application designed to answer healthcare insurance policy-related questions directly from policy documents. The system uses semantic search and Large Language Models (LLMs) to retrieve relevant information from a healthcare insurance PDF and generate accurate, context-aware responses in a conversational chat interface.
+
+The project combines document retrieval, vector embeddings, and generative AI to help users quickly understand insurance coverage, claims, exclusions, benefits, waiting periods, and other policy details without manually reading lengthy PDFs.
 
 - **UI:** Streamlit chat interface (`app.py`)
 - **RAG Engine:** LangChain pipeline (`rag_engine.py`)
